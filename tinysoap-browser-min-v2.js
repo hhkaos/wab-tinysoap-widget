@@ -2232,5 +2232,4 @@
     .bind(e)();
     e.tinysoap = n,
     "object" == typeof exports && "undefined" != typeof module && (module.exports = n)
-    window.tinysoap = n
 }(0, this);
